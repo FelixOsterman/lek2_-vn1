@@ -1,0 +1,24 @@
+/*
+selector{
+egenskap:värde;
+egenskap:värde;
+}
+*/
+
+h1{
+    color:orangered;
+    background-color:lightskyblue;
+}
+
+h2{
+    color:rgb(130, 247, 130);
+    background-color:rebeccapurple;
+}
+
+h4{
+    color:rebeccapurple;
+}
+
+body{
+    background-color:rgb(130, 247, 130);
+}
